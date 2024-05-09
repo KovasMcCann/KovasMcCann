@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Alt text](channeles4_banner.jpg)
 <!--
 **KovasMcCann/KovasMcCann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
