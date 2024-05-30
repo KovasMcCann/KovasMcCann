@@ -1,6 +1,6 @@
 ![channels4_banner](https://github.com/KovasMcCann/KovasMcCann/assets/44278533/1d736f70-30e7-415b-b483-8c8293a46119)
 
-### Hi there 👋
+### Kovas McCann 👽
 
 <!--
 **KovasMcCann/KovasMcCann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
