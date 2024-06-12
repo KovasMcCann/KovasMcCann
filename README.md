@@ -10,6 +10,8 @@
     888    Y88b "Y88P"   Y88P  "Y888888 88888P'888       888 "Y8888P "Y8888P" "Y888888888  888888  888 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&theme=matrix)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=Stars,Followers&theme=matrix)](#)
+
 
 <!--
 **KovasMcCann/KovasMcCann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
