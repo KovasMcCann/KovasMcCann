@@ -11,8 +11,10 @@
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&theme=matrix)](#) -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&theme=matrix)](#) -->
+<!-- 
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&theme=dark_dimmed)](#) -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&theme=dark_dimmed)](#)
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7)](#)
 
 
 <!--
