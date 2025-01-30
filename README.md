@@ -15,3 +15,13 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&theme=dark_dimmed)](#) -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7&no-bg=true&theme=onedark)](#)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7&no-bg=true&theme=gruvbox)](#)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7&no-bg=true&theme=juicyfresh)](#)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7&no-bg=true&theme=kimbie_dark)](#)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KovasMcCann&title=MultiLanguage,Experience,Commits,Stars,Followers,Repositories,Issues,PullRequest&margin-w=7&no-bg=true&theme=matrix)](#)
+
+
